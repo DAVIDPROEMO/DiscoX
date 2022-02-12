@@ -8,12 +8,15 @@
 <a href="">Discord</a>
 </p>
 
+<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
+<p align="center">
 <img src="https://img.shields.io/github/languages/top/WolfHex/DiscoX?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/WolfHex/DiscoX?style=flat-square" </a>
 <img src="https://img.shields.io/github/license/WolfHex/DiscoX?style=flat-square" </a>
 <img src="https://img.shields.io/github/downloads/WolfHex/DiscoX/total?color=%23daff00&label=1.4.4 Downloads&style=flat-square" </a>
 <img src="https://img.shields.io/github/stars/WolfHex/DiscoX?color=%23daff00&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/WolfHex/DiscoX?color=%23daff00&label=Forks&style=flat-square" </a>
+</p>
 
 # What is DiscoX
 
