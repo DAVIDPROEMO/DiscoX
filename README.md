@@ -8,7 +8,7 @@
 <a href="">Discord</a>
 </p>
 
-#What is DiscoX
+# What is DiscoX
 
 ## DiscoX is a GUI Discord multitool for hacking (OpenDisco evolution maybe)    ⚠️BETA VERSION⚠️
                                                        
