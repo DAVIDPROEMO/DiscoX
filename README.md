@@ -8,7 +8,7 @@
 <a href="">Discord</a>
 </p>
 
-<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="" alt="HazardNuker"></a>
+<p align= center</p><a href="" target="_blank"><img src="" alt=""></a>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/WolfHex/DiscoX?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/WolfHex/DiscoX?style=flat-square" </a>
