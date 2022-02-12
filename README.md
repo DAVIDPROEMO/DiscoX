@@ -8,6 +8,13 @@
 <a href="">Discord</a>
 </p>
 
+<img src="https://img.shields.io/github/languages/top/WolfHex/DiscoX?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/WolfHex/DiscoX?style=flat-square" </a>
+<img src="https://img.shields.io/github/license/WolfHex/DiscoX?style=flat-square" </a>
+<img src="https://img.shields.io/github/downloads/WolfHex/DiscoX/total?color=%23daff00&label=1.4.4 Downloads&style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/WolfHex/DiscoX?color=%23daff00&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/WolfHex/DiscoX?color=%23daff00&label=Forks&style=flat-square" </a>
+
 # What is DiscoX
 
 ## DiscoX is a GUI Discord multitool for hacking (OpenDisco evolution maybe)    ⚠️BETA VERSION⚠️
