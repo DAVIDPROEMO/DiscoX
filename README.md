@@ -48,10 +48,8 @@ WolfHex ✅
 
 
 ### ❗・Important
-* Make sure to have [Python 3.8.4 - 3.X.X](https://www.python.org/downloads/) before [Downloading](https://github.com/WolfHex/OpenDisco/) OpenDisco
-* Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
-* Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#6969 on discord if you get any sort of major error with Hazard
-* Some people have made a version of Hazard Nuker that looks/works like this one just that it's malicious, please make sure you only download stuff from here to make sure your info doesn't get stolen
+* Make sure to have [Python 3.8.4 - 3.X.X](https://www.python.org/downloads/) before [Downloading](https://github.com/WolfHex/DiscoX/) DiscoX
+
 
 ## Installation 
 
