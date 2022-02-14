@@ -1,5 +1,5 @@
 # DiscoX
-### Version: Beta 0.1
+### Version: Beta 0.2
 
 </center>
 
