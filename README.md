@@ -21,6 +21,10 @@
 # What is DiscoX
 
 ## DiscoX is a GUI Discord multitool for hacking (OpenDisco evolution maybe)    ⚠️BETA VERSION⚠️
+
+# Whats new
+
+* ` Added Token Grabber Maker (Jar, EXE, PY, QRScam`
                                                        
 
 #### DiscoX by
